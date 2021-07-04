@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"				"Level System"
+	"version"			"1"
+	"up_date"			""
+	"author_name"			"Leystryku"
+	"author_email"			"Leystryku@gmail.com"
+	"author_url"			""
+	"info"				"A Level System by Leystryu"
+	"override"			"0"
+}
